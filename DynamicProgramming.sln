@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythonInteroperating", "PythonInteroperating\PythonInteroperating.csproj", "{074AA593-AADB-4838-84DF-1455D605F039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074AA593-AADB-4838-84DF-1455D605F039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074AA593-AADB-4838-84DF-1455D605F039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074AA593-AADB-4838-84DF-1455D605F039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074AA593-AADB-4838-84DF-1455D605F039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {833708D2-0675-4CA3-B0A7-C5CD7A9D2483}
+	EndGlobalSection
+EndGlobal
